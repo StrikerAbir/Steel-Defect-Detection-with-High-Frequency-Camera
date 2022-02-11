@@ -1,0 +1,2 @@
+create folder name images. and put all images there
+https://www.kaggle.com/c/severstal-steel-defect-detection/data
